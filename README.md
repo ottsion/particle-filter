@@ -1,4 +1,4 @@
-# Particle swarm optimization
+# Simple particle filter algorithm
 
 # Introduce
 
